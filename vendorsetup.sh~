@@ -53,7 +53,6 @@ add_lunch_combo cyanogen_speedy-eng
 add_lunch_combo cyanogen_supersonic-eng
 add_lunch_combo cyanogen_u8220-eng
 add_lunch_combo cyanogen_u8120-eng
-add_lunch_combo cyanogen_u8100-eng
 add_lunch_combo cyanogen_urushi-eng
 add_lunch_combo cyanogen_v9-eng
 add_lunch_combo cyanogen_vega-eng
