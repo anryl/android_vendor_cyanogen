@@ -14,7 +14,7 @@ PRODUCT_BRAND := huawei
 PRODUCT_DEVICE := u8120
 PRODUCT_MODEL := U8120
 PRODUCT_MANUFACTURER := Huawei
-PRODUCT_BUILD_PROP_OVERRIDES += PRODUCT_NAME=u8120 BUILD_ID=GRJ22 BUILD_DISPLAY_ID=GRJ22 BUILD_FINGERPRINT=google/passion/passion:2.3.5/GRJ22/121341:user/release-keys PRIVATE_BUILD_DESC="passion-user 2.3.5 GRJ22 121341 release-keys"
+PRODUCT_BUILD_PROP_OVERRIDES += PRODUCT_NAME=u8120 BUILD_ID=GWK74 BUILD_DISPLAY_ID=GWK74 BUILD_FINGERPRINT=google/passion/passion:2.3.7/GWK74/121341:user/release-keys PRIVATE_BUILD_DESC="passion-user 2.3.7 GWK74 121341 release-keys"
 
 #
 # Set ro.modversion
@@ -28,7 +28,7 @@ else
             ro.modversion=CyanogenMod-7.1.0-RC1-U8120
     else
         PRODUCT_PROPERTY_OVERRIDES += \
-            ro.modversion=CyanogenMod-7.1.0-RC1-U8120-KANG
+            ro.modversion=CyanogenMod-7.1.0-RC1-U8120-Anryl
     endif
 endif
 
